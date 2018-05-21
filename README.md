@@ -1,0 +1,1 @@
+# sonar-scala-circleci-image
